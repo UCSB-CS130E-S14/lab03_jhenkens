@@ -1,4 +1,4 @@
-lab03_jhenkens
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Johan Henkens
+labs for CS130E-S14
